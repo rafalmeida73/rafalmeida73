@@ -1,16 +1,15 @@
-### Hi there 👋
+# Rafael Santana :man_technologist:
 
-<!--
-**rafalmeida73/rafalmeida73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafalmeida73)](https://github.com/rafalmeida73)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rafael-santana-5876a117a/)](https://https://www.linkedin.com/in/rafael-santana-5876a117a/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelsantana7213@gmail.com)](mailto:rafaelsantana7213@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/rrafael_santana/)](https://www.instagram.com/rrafael_santana/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Olá! 👋 Bem-vindo ao meu perfil :octocat:
+
+- 🔭 Atualmente, sou um estudante de Análise e Desenvolvimento de Sistemas
+- 🌱 Atualmente, estou aprendendo Desenvolvimento web com node, Express, Materialize, Sequelize, entre outros
+- 👯 O meu último projeto foi um sistema voltado para educadores físicos gerenciar dados dos alunos. Conseguindo assim, organizar suas finanças, agendas, monitoramento dos alunos e outros. O projeto pode se encontrado nesse repositório [**HighPerformance**](https://github.com/rafalmeida73/HighPerformance).
+- 💬 Pergunte-me sobre eles, abra um **issue**
+- ⚡ Apaixonado por novas tecnologias
