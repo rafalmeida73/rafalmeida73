@@ -3,7 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafalmeida73)](https://github.com/rafalmeida73)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rafael-santana-5876a117a/)](https://https://www.linkedin.com/in/rafael-santana-5876a117a/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelsantana7213@gmail.com)](mailto:rafaelsantana7213@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/rrafael_santana/)](https://www.instagram.com/rrafael_santana/)
 
 
 ### Olá! 👋 Bem-vindo ao meu perfil :octocat:
