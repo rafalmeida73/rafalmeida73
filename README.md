@@ -10,5 +10,7 @@
 - 🔭 Atualmente, sou um estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente, estou estudando Desenvolvimento web com React, node, Express, Materialize, Sequelize, entre outros
 - 👯Atualmente estou desenvolvendo um projeto em React Js e Firebase que visa facilitar o acesso a informações de jogos com um plataforma completa que oferece atualizações, avaliações e informações completas sobre todos os jogos disponíveis. O projeto pode se encontrado nesse repositório [**Broken Out**](https://github.com/rafalmeida73/brokenOut).
-- 💬 Pergunte-me sobre eles, abra um **issue**
-- ⚡ Apaixonado por novas tecnologias
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=rafalmeida73&hide=stars,issues&show_icons=true&theme=radical)](https://github.com/rafalmeida73)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patriciafelixx&layout=compact)](https://github.com/rafalmeida73/github-readme-stats)
