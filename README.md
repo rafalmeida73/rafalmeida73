@@ -24,6 +24,6 @@
 - Firebase
 - MySql
 
-<p align="center">
-  <img src="space.png" />
-</p>
+
+
+
