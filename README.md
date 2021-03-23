@@ -24,7 +24,4 @@
 - Firebase
 - MySql
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=rafalmeida73&hide=stars,issues&show_icons=true&theme=graywhite)](https://github.com/rafalmeida73)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafalmeida73&layout=compact)](https://github.com/rafalmeida73)
 
