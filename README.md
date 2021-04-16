@@ -24,6 +24,9 @@
 - Firebase
 - MySql
 
+## Github Status :computer:
 
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=rafalmeida73&theme=react&show_icons=true"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafalmeida73&theme=react&show_icons=true"/></p>
 
 
