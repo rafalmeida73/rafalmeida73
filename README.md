@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
- Desenvolvedor Full Stack
+ Desenvolvedor Mobile
 </p>
 
 - React
