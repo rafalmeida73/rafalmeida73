@@ -12,7 +12,9 @@
 
 
 
-## Github Status :computer:
+[linkedin]: https://www.linkedin.com/in/rafalmeida73/
+[gmail]: mailto:rafaelsantana7213@gmail.com
+[site]: https://rafalmeida73.is-a.dev
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=rafalmeida73&theme=react&show_icons=true"/>
@@ -26,6 +28,4 @@
 [<img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>][site]
 
 
-[linkedin]: https://www.linkedin.com/in/rafalmeida73/
-[gmail]: mailto:rafaelsantana7213@gmail.com
-[site]: https://rafalmeida73.is-a.dev
+
