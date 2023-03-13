@@ -10,7 +10,7 @@
 const rafael = {
     pronouns: "He" | "Him",
     code: ["Typescript", "Javascript", "HTML", "CSS"],
-    tools: ["React", "React Native", "Styled-Components", "Sass", "Jest", "Firebase"],
+    tools: ["React Native", "React", "Styled-Components", "Sass", "Jest", "Firebase"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
