@@ -24,7 +24,7 @@ const rafael = {
         databases: ["MySql", "sqlite"],
         misc: ["Firebase"]
     },
-    currentFocus: "Focused on React Native"
+    currentFocus: "React Native"
 };
 ```
 
