@@ -8,7 +8,6 @@
 
 ```javascript
 const rafael = {
-    pronouns: "He" | "Him",
     code: ["Typescript", "Javascript", "HTML", "CSS"],
     tools: ["React Native", "React", "Styled-Components", "Sass", "Jest", "Firebase"],
     technologies: {
