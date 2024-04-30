@@ -6,6 +6,10 @@
   Welcome to my profile :octocat:
 </p>
 
+
+
+![](https://hit.yhype.me/github/profile?user_id=49356234)
+
 ```javascript
 const rafael = {
     code: ["Typescript", "Javascript", "HTML", "CSS"],
@@ -33,6 +37,13 @@ const rafael = {
 </p>
 
 ##
+
+<p align="center">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+      <img src="https://komarev.com/ghpvc/?username=rafalmeida73&style=for-the-badge">
+  </a>
+</p>
+
 
 
 
