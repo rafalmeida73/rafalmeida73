@@ -21,7 +21,7 @@ const rafael = {
         backEnd: {
             js: ["Node", "Express"],
         },
-        mobileApp: {
+        mobile: {
             js: ["React Native"]
         },
         databases: ["MySql", "sqlite"],
